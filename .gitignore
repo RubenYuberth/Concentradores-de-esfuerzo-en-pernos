@@ -1,0 +1,11 @@
+# Dependencias
+node_modules/
+
+# Build de producción
+dist/
+
+# Archivos locales
+*.local
+
+# HTML original (referencia, no forma parte del proyecto)
+zonas_criticas_perno.html
